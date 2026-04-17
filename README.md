@@ -1,1 +1,1 @@
-# WordLists(brute force)
+# WordLists (brute force)
